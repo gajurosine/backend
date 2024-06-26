@@ -8,6 +8,7 @@ class TemplateApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
